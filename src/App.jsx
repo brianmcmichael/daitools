@@ -1,15 +1,12 @@
 import React from 'react';
 import { ethers } from 'ethers';
-import Button from '@material-ui/core/Button';
 import './App.css';
+import Main from './components/Main';
 
 function App() {
   return (
     <div className="App">
-      Calculator
-      <Button variant="contained" color="primary">
-        Hello World
-      </Button>
+      <Main />
     </div>
   );
 }
