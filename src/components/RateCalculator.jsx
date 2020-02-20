@@ -1,11 +1,12 @@
 import React from 'react';
+import { Form } from 'semantic-ui-react';
 
 const RateCalculator = (props) => {
 
   return (
-    <div>
-      Rates Calculator
-    </div>
+    <Form size='large'>
+      Test
+    </Form>
   )
 }
 
