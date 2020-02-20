@@ -1,7 +1,6 @@
 import React from 'react';
 import { Divider, Header, Image } from 'semantic-ui-react'
 import daiSmall from '../img/Dai126x126.png';
-import RateCalculator from './RateCalculator';
 
 const PageHeader = (props) => {
   return (
