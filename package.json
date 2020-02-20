@@ -1,5 +1,6 @@
 {
   "name": "daitools",
+  "homepage": "https://brianmcmichael.github.io/daitools/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
