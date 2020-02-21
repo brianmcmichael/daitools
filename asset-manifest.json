@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/daitools/static/css/main.6c64c297.chunk.css",
-    "main.js": "/daitools/static/js/main.3cb4379f.chunk.js",
-    "main.js.map": "/daitools/static/js/main.3cb4379f.chunk.js.map",
-    "runtime-main.js": "/daitools/static/js/runtime-main.4d932465.js",
-    "runtime-main.js.map": "/daitools/static/js/runtime-main.4d932465.js.map",
-    "static/css/2.68b8c555.chunk.css": "/daitools/static/css/2.68b8c555.chunk.css",
-    "static/js/2.6bccc2e4.chunk.js": "/daitools/static/js/2.6bccc2e4.chunk.js",
-    "static/js/2.6bccc2e4.chunk.js.map": "/daitools/static/js/2.6bccc2e4.chunk.js.map",
-    "index.html": "/daitools/index.html",
-    "precache-manifest.a1b04e2bb9557d359965cbb7e55c8048.js": "/daitools/precache-manifest.a1b04e2bb9557d359965cbb7e55c8048.js",
-    "service-worker.js": "/daitools/service-worker.js",
-    "static/css/2.68b8c555.chunk.css.map": "/daitools/static/css/2.68b8c555.chunk.css.map",
-    "static/css/main.6c64c297.chunk.css.map": "/daitools/static/css/main.6c64c297.chunk.css.map",
-    "static/js/2.6bccc2e4.chunk.js.LICENSE.txt": "/daitools/static/js/2.6bccc2e4.chunk.js.LICENSE.txt",
-    "static/media/Dai126x126.png": "/daitools/static/media/Dai126x126.76a77e86.png",
-    "static/media/semantic.min.css": "/daitools/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/static/css/main.6c64c297.chunk.css",
+    "main.js": "/static/js/main.bd249abd.chunk.js",
+    "main.js.map": "/static/js/main.bd249abd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afcd12d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afcd12d1.js.map",
+    "static/css/2.c0c1af7e.chunk.css": "/static/css/2.c0c1af7e.chunk.css",
+    "static/js/2.6bccc2e4.chunk.js": "/static/js/2.6bccc2e4.chunk.js",
+    "static/js/2.6bccc2e4.chunk.js.map": "/static/js/2.6bccc2e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.871cd00c264031c459037e7a0bd03644.js": "/precache-manifest.871cd00c264031c459037e7a0bd03644.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c0c1af7e.chunk.css.map": "/static/css/2.c0c1af7e.chunk.css.map",
+    "static/css/main.6c64c297.chunk.css.map": "/static/css/main.6c64c297.chunk.css.map",
+    "static/js/2.6bccc2e4.chunk.js.LICENSE.txt": "/static/js/2.6bccc2e4.chunk.js.LICENSE.txt",
+    "static/media/Dai126x126.png": "/static/media/Dai126x126.76a77e86.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d932465.js",
-    "static/css/2.68b8c555.chunk.css",
+    "static/js/runtime-main.afcd12d1.js",
+    "static/css/2.c0c1af7e.chunk.css",
     "static/js/2.6bccc2e4.chunk.js",
     "static/css/main.6c64c297.chunk.css",
-    "static/js/main.3cb4379f.chunk.js"
+    "static/js/main.bd249abd.chunk.js"
   ]
 }
